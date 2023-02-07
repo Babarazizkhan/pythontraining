@@ -3,3 +3,6 @@
  code 
  api
   
+payment option 
+send money
+recieve money
